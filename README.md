@@ -1,5 +1,8 @@
-# Chatapp
+# Telefonica
 
+A high-performance chat application developed using Golang for the backend, React for the frontend, Tailwind CSS for design, as well as MongoDB and PostgreSQL for data storage.
+
+## Screenshots
 ![channel_png](images/channel.png)
 ![relationship-online](images/relationship-online.png)
 
@@ -9,7 +12,7 @@
 - [x] PWA
 - [ ] Push Notification 
 
-### Example `.env`
+### Example `.env` file
 
 ```bash
 export SERVER_HOST="0.0.0.0"
